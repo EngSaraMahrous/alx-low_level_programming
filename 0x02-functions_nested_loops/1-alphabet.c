@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * main - check the code
+ * print_alphabet - prints the characters from a to z
  *
- * Return: Always 0.
+ * return: 0
  */
-int main(void)
+void print_alphabet(void)
 {
 char(c);
 for (c = 'a'; c <= 'z'; c++)
