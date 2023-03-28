@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * reset_to_98 - thi is a function that takes the pointer to
