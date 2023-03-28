@@ -4,7 +4,7 @@
  * reset_to_98 - thi is a function that takes the pointer to
  * an int as a parameter update the value it points to to 98.
  *
- * @s: - is an entry
+ * @n: - is an entry
  *
  */
 
